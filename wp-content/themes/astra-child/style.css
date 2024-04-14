@@ -1,0 +1,28 @@
+/**
+ * Theme Name: Astra Child
+ * Description: Astra Child theme
+ * Author: Carter Haner
+ * Template: astra
+ */
+
+ @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+ .site-header {
+    font-family: "Rubik", sans-serif;
+ }
+
+ .menu-link {
+    font-size: 18px;
+ }
+
+ .first-heading {
+    font-size: 60px;
+ }
+
+ .resume-page {
+    background-color: rgb(255, 251, 250);
+ }
+
+ .site-branding {
+    letter-spacing: 2px;
+ }
